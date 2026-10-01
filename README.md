@@ -1,4 +1,4 @@
-# 📸 Ankan Photography Site
+#  📸 Photography Portfolio
 
 <p align="center">
   A clean photography portfolio interface built using HTML5 and CSS3.
